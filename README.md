@@ -1,8 +1,7 @@
 # ABOUT ME 💬
 ### My Favorite Movies 🎥 
 
-<img src="https://wifflegif.com/gifs/570137-bad-mother-coraline-gif">
-
+<img src="https://gifdb.com/gif/coraline-other-mother-smile-ig01ll5ouat19q2r.html?embed=true>
 
 - 🕷️ Coraline
 - 🦉 Harry Potter
