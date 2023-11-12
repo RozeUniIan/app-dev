@@ -1,10 +1,7 @@
-# ABOUT ME 👤💬
-
 ![About Me!](https://github.com/RozeUniIan/app-dev/assets/150580299/68d2d36d-3c3f-4cdc-9c7f-6b2d92f18b73)
 - Hello everyone! I am Roze, a 3rd Year IT student from STI Global City.
 
 ### MY FAVORITE MOVIES OF ALL TIME!
-
 
 ## 🕷️ CORALINE
 > Other Mother: "Black is Traditional."
