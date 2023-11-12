@@ -1,6 +1,6 @@
 # app-dev
-My first repository
-**My favorite movies and series**
+*My first repository*
+### ABOUT MY FAVORITE MOVIES AND SERIES
 1. Coraline
 2. Harry Potter
 3. Hotarubi no Mori e
