@@ -38,7 +38,7 @@
   
 * **Synopsis:** Twins Annie and Hallie are strangers until happenstance unites them. The preteen girls' divorced parents, Nick and Elizabeth, are living on opposite sides of the Atlantic, each with one child. After meeting at camp, American Hallie and British-raised Annie engineer an identity swap, giving both the chance to spend time with the parent they've missed. If the scheme works, it might just make the family whole again.
 
-## 👨‍👩‍👧‍👧 AMERICAN HORROR STORY
+## ⚰️ AMERICAN HORROR STORY
 > ***The Countess:** "We have two selves. One the world needs us to be, compliant, and the shadow. Ignore it and life is forever suffering.”*
 
 <p align="center">
@@ -48,7 +48,7 @@
   
 * **Synopsis:** Described as an anthology series, AHS chronicles fictionalized haunted locations, the living and the dead who interact within them. Each season has its own self-contained storyline and characters and it has been posed that each season will introduce a new location as well as new characters and storylines.
 
-## 👨‍👩‍👧‍👧 WHEN MARNIE WAS THERE
+## 🏰 WHEN MARNIE WAS THERE
 > ***Marnie:** "Yesterday's gone, so has the day before. Don't waste today arguing about it.”*
 
 <p align="center">
@@ -60,5 +60,21 @@
   
 * **Synopsis:** A young girl is sent to the country for health reasons, where she meets an unlikely friend in the form of Marnie, a young girl with flowing blonde hair. As the friendship unravels Marnie has closer ties to the protagonist than we might expect.
 
+## 👠 MEAN GIRLS
+> ***Karen Smith:** "On Wednesdays we wear pink.”*
+
+<p align="center">
+<img src="https://github.com/RozeUniIan/app-dev/assets/150580299/80d3667f-18a1-4d67-b8b5-976ae490253b">
+
+
+* **Book Author:** Rosalind Wiseman
+  
+* **Movie Directors:** Mark Waters
+  
+* **Synopsis:** Teenage Cady Heron was educated in Africa by her scientist parents. When her family moves to the suburbs of Illinois, Cady finally gets to experience public school and gets a quick primer on the cruel, tacit laws of popularity that divide her fellow students into tightly knit cliques. She unwittingly finds herself in the good graces of an elite group of cool students dubbed "the Plastics," but Cady soon realizes how her shallow group of new friends earned this nickname.
+
+<p align="center">
+🌟🌟🌟
+  
 ![Thank you for viewing! (1)](https://github.com/RozeUniIan/app-dev/assets/150580299/59aaebcd-5ac5-4150-be7e-facb1f98c0ae)
 
