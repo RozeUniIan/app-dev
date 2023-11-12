@@ -1,8 +1,7 @@
 # ABOUT ME 💬
 ### My Favorite Movies 🎥 
 
-<img src="https://tenor.com/view/coraline-other-mother-smile-creepy-gif-7951554>
-
+<img src="https://media.tenor.com/Ih9HH2IT1oIAAAAC/coraline-other-mother.gif?fbclid=IwAR32oB1LC9kg7qAz7n47QsoRGP62pniTHePSlz1gNeIZ8uubeqExBbaEEVc>
 - 🕷️ Coraline
 - 🦉 Harry Potter
 - ⛩️ Hotarubi no Mori e
